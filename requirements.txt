@@ -1,0 +1,10 @@
+# Paying Guest Management System
+
+1. create Environment Variable
+2. python version > 3.10
+3. pip install django
+4. pip install makemigrations
+5. pip instal migrate
+6. py manage.py runserver
+
+
